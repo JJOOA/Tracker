@@ -1,0 +1,64 @@
+{
+  "width": "100%",
+  "height": "600",
+  "symbolsGroups": [
+    {
+      "name": "Stocks",
+      "symbols": [
+        {
+          "name": "Stocks",
+          "symbols": [
+          {
+            "name": "TVC:SPX",
+            "displayName": "S&P500"
+          },
+          {
+            "name": "CURRENCYCOM:US100",
+            "displayName": "NASDAQ"
+          },
+          {
+            "name": "CURRENCYCOM:UK100",
+            "displayName": "FTSE100"
+          },
+          {
+            "name": "XETR:DAX",
+            "displayName": "DAX"
+          },
+          {
+            "name": "INDEX:CAC40",
+            "displayName": "CAC40"
+          }
+        ]
+      },
+      {
+        "name": "Stocks",
+        "originalName": "Commodities",
+        "symbols": [
+          {
+            "name": "NASDAQ:CGC",
+            "displayName": "Canopy"
+          },
+          {
+            "name": "NASDAQ:TLRY",
+            "displayName": "Tilray"
+          },
+          {
+            "name": "NASDAQ:MSFT",
+            "displayName": "Microsoft"
+          },
+          {
+            "name": "NYSE:PLTR",
+            "displayName": "Palantir"
+          },
+          {
+            "name": "NYSE:SONY",
+            "displayName": "Sony"
+          }
+        ]
+      }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "dark",
+  "isTransparent": true,
+  "locale": "en"
+}
